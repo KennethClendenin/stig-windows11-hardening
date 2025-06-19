@@ -6,4 +6,7 @@ Each script focuses on a single control, uses a modular structure, and includes 
 
 🎯 **Purpose:** Automate the application of STIG control implementations in Windows 11 environments using auditable, maintainable, and enterprise-ready PowerShell scripts.
 
-<hr/>
+---
+> ⚠️ **Disclaimer**  
+> These scripts are intended for use in a lab or an approved enterprise environment. Always validate changes in a test environment before deploying to production. Implementation should align with your organization’s compliance policies and change management practices.
+---
